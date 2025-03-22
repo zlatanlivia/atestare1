@@ -1,5 +1,11 @@
+import ImageGallery from  "./ImageGallery ";
 function App() {
-    return <></>;
+    return (
+    <>
+    <ImageGallery />
+    </>
+    );
+    
 }
 
 export default App;
